@@ -1,0 +1,39 @@
+================
+shivy project personal
+===============
+
+
+============= COMPLETED =========
+Register/login - mysql r41-4
+Admin System -- 7 nivele
+Engine System
+Fly Mode
+Spawn car
+HUD
+Hud toggle
+Command handler
+
+========= TO DO =========
+
+[TODO - PRIORITY]
+- /ban command (save in MySQL, with expiry)
+- /mute, /unmute (save in MySQL with timestamp expiry)
+- /goto, /gethere (admin teleport)
+- Money system ($999M limit, cash + bank)
+- Save/load player position on disconnect/connect
+- Death/respawn system
+- Mute table in MySQL (mute_until column)
+
+[TODO - FEATURES]
+- Helper system
+- Faction system
+- House system
+- Vehicle system (personal vehicles)
+- Speedometer TextDraw (km/h, fuel, damage, km)
+- Chat system (/ooc, /me, /do, /s, /w)
+- Login camera (interpolated)
+- Login/Register on TextDraw
+- Hours/Minutes played timer
+- Weapon shop
+- Level/XP system
+- Anti-cheat basics

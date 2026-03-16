@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s https://api.github.com/repos/katursis/Pawn.CMD/releases)",
+      "Bash(curl -s https://api.github.com/repos/Y-Less/sscanf/releases/latest)",
+      "Bash(curl -s https://api.github.com/repos/pBlueG/SA-MP-MySQL/releases/tags/R41-4)",
+      "Bash(curl -s https://api.github.com/repos/samp-incognito/samp-streamer-plugin/releases/latest)",
+      "Bash(curl -s https://api.github.com/repos/lassir/bcrypt-samp/releases/latest)",
+      "Bash(ls \"c:/Users/shivy/Desktop/samp/\"*.dll)",
+      "WebSearch",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/Gammix/Fly-Camera/master/flycam.inc\" -o \"c:/Users/shivy/Desktop/samp/qawno/include/flycam.inc\")"
+    ]
+  }
+}

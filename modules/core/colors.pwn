@@ -1,0 +1,7 @@
+#define COL_WHITE "{FFFFFF}"
+#define COL_RED "{FF4000}"
+#define COL_GREEN "{00FF00}"
+#define COL_ORANGE "{FF8C00}"
+#define COL_GREY "{AAAAAA}"
+#define COL_LIGHTBLUE "{33CCFF}"
+#define SERVER_MSG COL_ORANGE"(ONY) >> "COL_WHITE

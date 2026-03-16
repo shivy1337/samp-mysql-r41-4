@@ -1,0 +1,14 @@
+*.exe
+*.dll
+*.pdb
+*.amx
+*.log
+server_log.txt
+server.cfg
+pawno/
+plugins/
+scriptfiles/
+npcmodes/
+filterscripts/
+include/
+NTD_RESOURCES.txd
